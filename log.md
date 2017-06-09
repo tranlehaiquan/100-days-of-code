@@ -6,7 +6,7 @@
 And completed little auto choose food.  <br>
 **Thoughts:** When I began, it was hard. Because I usually read book with fully images and quiz to explain me about concept...
 But when I finished first chapter. I changed my mind about this book, it give me total insight about javasciprt, dig deep.
-So calmn and learn Js :)
+So calmn and learn Js :) <br>
 **Calm down learn Javasciprt**<br>
 **Link to work:** [AutoChooseFood App](https://codepen.io/tranlehaiquan/pen/KqwEVb)
 <hr>
