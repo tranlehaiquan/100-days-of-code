@@ -10,6 +10,7 @@ So calmn and learn Js :) <br>
 **Calm down learn Javasciprt**<br>
 **Link to work:** [AutoChooseFood App](https://codepen.io/tranlehaiquan/pen/KqwEVb)
 <hr>
+
 ### Day 01: June 10, 2017
 
 **Today's Progress**: Read chapter 2 "Lexical Scope" 50 minute, code 45 minute create my grid base on BEM and SCSS <br>
