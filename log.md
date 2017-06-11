@@ -13,3 +13,7 @@ So calmn and learn Js :) <br>
 ### Day 01: June 09, 2017
 **Today's Progress**: Read chapter 2 "Lexical Scope" 50 minute, code 45 minute create my grid base on BEM and SCSS
 **Thoughts:** Learn a new concept about "Lexical Scope", one more "brick" :), I am building my own walk. Scss is cool but some time it difficult, because some time it take me a amount of time to debug. And I think I almost done my first grid :D, hura!
+
+### Off day: June 10, 2017
+**Today's Progress**: Read chapter 3 "Function vs. Block Scope" 30 minute, no code :'(
+**Thoughts:** Lazy day. I can't focuse to my work. I'm thinking about my job, it diffuse me and what I do.
