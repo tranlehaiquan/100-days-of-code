@@ -18,8 +18,14 @@ So calmn and learn Js :) <br>
 https://codepen.io/tranlehaiquan/pen/bRdKOr?editors=1100
 <hr>
 
-### Off day: June 10, 2017
+### Off day: June 11, 2017
 
 **Today's Progress**: Read chapter 3 "Function vs. Block Scope" 30 minute, no code :'( <br>
 **Thoughts:** Lazy day. I can't focuse to my work. I'm thinking about my job, it diffuse me and what I do.
+<hr>
 
+### Day 02: June 12, 2017
+
+**Today's Progress**: Read chapter 3 "Function vs. Block Scope" 45 minute. 15 minute research Foundation
+**Thoughts:** In this chapter I recognize my knowlegde about function expression, and little understand about
+library "Why theme wrap code with function expression or just out put and Object". And about Foundation, I watch getting started at 12h00, and that voice like he didn't sleep for a weak. I think Foundation will be cool, with another way resolve problem.
