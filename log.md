@@ -29,3 +29,13 @@ https://codepen.io/tranlehaiquan/pen/bRdKOr?editors=1100
 **Today's Progress**: Read chapter 3 "Function vs. Block Scope" 45 minute. 15 minute research Foundation  <br>
 **Thoughts:** In this chapter I recognize my knowlegde about function expression, and little understand about
 library "Why theme wrap code with function expression or just out put and Object". And about Foundation, I watch getting started at 12h00, and that voice like he didn't sleep for a weak. I think Foundation will be cool, with another way resolve problem.
+<hr>
+
+### Day 03: June 13, 2017
+
+**Today's Progress**: Continue read chapter 3 for 15 minute. First time use Foundation grid 
+**Thoughts:** This is the first time I am use Foundation to make a simple page, the different bettewn bootstrap and Foundation is Foundation use 3 breakpoint (large, medium, small) row also is container.
+Have two grid mode, is float and flex. When I use float make two columns with not equal 12 columns size I realize that the last column will float right, not left!
+Also have push, pull, offset. I think it will hard to responsive because Foundation have only 3 bearkpoint (without custom).
+Lexical scope and block scope
+https://codepen.io/tranlehaiquan/pen/KqMWBb
