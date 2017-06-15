@@ -39,3 +39,10 @@ Have two grid mode, is float and flex. When I use float make two columns with no
 Also have push, pull, offset. I think it will hard to responsive because Foundation have only 3 bearkpoint (without custom).
 Lexical scope and block scope
 https://codepen.io/tranlehaiquan/pen/KqMWBb
+<hr>
+
+### Day 04: June 14, 2017
+
+**Today's Progress**: Completed chapter 4 Hoisting, start Js challenges<br>
+**Thoughts:** I learned hoisting before, but in this chapter I know more specific, who first?
+Function or variable ( function go first ).
