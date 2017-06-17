@@ -41,8 +41,14 @@ Lexical scope and block scope
 https://codepen.io/tranlehaiquan/pen/KqMWBb
 <hr>
 
-### Day 04: June 14, 2017
+### Day 04: June 16, 2017
 
 **Today's Progress**: Completed chapter 4 Hoisting, start Js challenges<br>
 **Thoughts:** I learned hoisting before, but in this chapter I know more specific, who first?
 Function or variable ( function go first ).
+<hr>
+
+### Day 05: June 17, 2017
+
+**Today's Progress**: Remain knowleged RegExp in JavaScript, and use it to pass some test of FreeCodeCamp<br>
+**Thoughts:** I learn RegExp throught 10 video of "egghead" it pretty easy to understand, and follow. 
