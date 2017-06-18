@@ -52,3 +52,10 @@ Function or variable ( function go first ).
 
 **Today's Progress**: Remain knowleged RegExp in JavaScript, and use it to pass some test of FreeCodeCamp<br>
 **Thoughts:** I learn RegExp throught 10 video of "egghead" it pretty easy to understand, and follow. 
+<hr>
+
+### Day 06: June 18, 2017
+
+**Today's Progress**: 1 hour code challenges at freecodecamp, make simple menu restaurant<br>
+**Thoughts:** Solve problem is hard and great part of coding. And I think it way I chose to become a developer, why I code everyday :).  
+Link: https://codepen.io/tranlehaiquan/pen/XgpOLW 
