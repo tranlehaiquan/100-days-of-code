@@ -56,6 +56,6 @@ Function or variable ( function go first ).
 
 ### Day 06: June 18, 2017
 
-**Today's Progress**: 1 hour code challenges at freecodecamp, make simple menu restaurant<br>
+**Today's Progress**: 2 hour code challenges at freecodecamp, 30 minutes make simple menu restaurant<br>
 **Thoughts:** Solve problem is hard and great part of coding. And I think it why I chose to become a developer, why I code everyday :).  
 Link: https://codepen.io/tranlehaiquan/pen/XgpOLW 
