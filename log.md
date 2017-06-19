@@ -59,3 +59,15 @@ Function or variable ( function go first ).
 **Today's Progress**: 2 hour code challenges at freecodecamp, 30 minutes make simple menu restaurant<br>
 **Thoughts:** Solve problem is hard and great part of coding. And I think it why I chose to become a developer, why I code everyday :).  
 Link: https://codepen.io/tranlehaiquan/pen/XgpOLW 
+<hr>
+
+### Day 07: June 19, 2017
+
+**Today's Progress**: 1 hour reading chapter 5 "Scope Closures", no code for today<br>
+**Thoughts:** It is dry for just reading without practice. Suddenly I remmenber about "Parallax" effect, and it will be my plane for day 08. <hr>
+Note: 
+<ul>
+	<li>Closure is when a function is able to remember and access its lexical scope even when that function is <b>executing outside</b> its lexical scope.</li>
+	<li>Use <b>let</b> in for loop it mean, variable will be declared not once for the loop, <b>but each iteration</b>. And, it will, helpfully, be initialized at each subsequent iteration with the value from the end of the previous iteration.</li>
+</ul>
+
