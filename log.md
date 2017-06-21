@@ -70,4 +70,14 @@ Note:
 	<li>Closure is when a function is able to remember and access its lexical scope even when that function is <b>executing outside</b> its lexical scope.</li>
 	<li>Use <b>let</b> in for loop it mean, variable will be declared not once for the loop, <b>but each iteration</b>. And, it will, helpfully, be initialized at each subsequent iteration with the value from the end of the previous iteration.</li>
 </ul>
+<hr>
+
+### Off Day: June 20, 2017
+<hr>
+
+### Day 08: June 21, 2017
+
+**Today's Progress**: 30 minute to solve little challenge "Caesars Cipher", 15 minute read document about React js <br>
+**Thoughts:** When I slove challenge FreeCodeCamp, one again "RegEx" help me easyer slove problem with a little cacula.
+And React js, it not the first time I try to learn react js, but in this time I feel specific, more easyer to understand.
 
