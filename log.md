@@ -81,3 +81,10 @@ Note:
 **Thoughts:** When I slove challenge FreeCodeCamp, one again "RegEx" help me easyer slove problem with a little cacula.
 And React js, it not the first time I try to learn react js, but in this time I feel specific, more easyer to understand.
 
+<hr>
+
+### Day 09: June 22, 2017
+
+**Today's Progress**: 15 minute read "You don't know js", 15 research about react js<br>
+**Thoughts:** It suck lazy day again. I have stucked in movie and can't get out. I can slove that with go the code first and wath movie later. Damm!
+
