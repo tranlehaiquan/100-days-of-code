@@ -87,4 +87,18 @@ And React js, it not the first time I try to learn react js, but in this time I 
 
 **Today's Progress**: 15 minute read "You don't know js", 15 research about react js<br>
 **Thoughts:** It suck lazy day again. I have stucked in movie and can't get out. I can slove that with go the code first and wath movie later. Damm!
+<hr>
+
+### Day 10: June 25, 2017
+
+**Today's Progress**: Research Reactjs<br>
+**Thoughts:** Reason I learn reactjs beacause I hear many people talk about this technical, and the way react js manage state. I don't know it to fast or soon for learning some thing like this? It pretty weird.
+<hr>
+
+### Day 10: June 26, 2017
+
+**Today's Progress**: Research React-js and do a little "Super hero card"<br>
+**Thoughts:** Write HTML in Javascript it crazy :), next time maybe transform from style sheet to inline style.
+Next time, maybe I can go deep and see the good thing of react.
+
 
