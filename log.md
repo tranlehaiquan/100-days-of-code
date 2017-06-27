@@ -100,5 +100,11 @@ And React js, it not the first time I try to learn react js, but in this time I 
 **Today's Progress**: Research React-js and do a little "Super hero card"<br>
 **Thoughts:** Write HTML in Javascript it crazy :), next time maybe transform from style sheet to inline style.
 Next time, maybe I can go deep and see the good thing of react.
+<hr>
+
+### Day 11: June 26, 2017
+
+**Today's Progress**: Make "Color card", learning about component in React<br>
+**Thoughts:** OMG it real :), write style inline. I see the advance it really new, sometime I depend on selector class to know which one with another. If it get use in future, thing like BEM and SASS it useless to me :D.
 
 
