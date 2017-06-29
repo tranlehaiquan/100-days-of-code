@@ -106,5 +106,19 @@ Next time, maybe I can go deep and see the good thing of react.
 
 **Today's Progress**: Make "Color card", learning about component in React<br>
 **Thoughts:** OMG it real :), write style inline. I see the advance it really new, sometime I depend on selector class to know which one with another. If it get use in future, thing like BEM and SASS it useless to me :D.
+<hr>
+
+### Day 12: June 27, 2017
+
+**Today's Progress**: Completed chapter 6, learn how to handle props if it so many, little update for "Color card" <hr>
+**Thoughts:** Things is getting logic and I think learn and see UI with componend so cool!
+https://codepen.io/tranlehaiquan/pen/pwpedZ
+<hr>
+
+### Day 13: June 28, 2017
+
+**Today's Progress**: Completed chapter 7, a little dig deep about JSX. Make simple menu with SASS + BEM (My desgin suck)<hr>
+**Thoughts:** I will wtire tomorow, so late...
+https://codepen.io/tranlehaiquan/pen/dRdXww
 
 
