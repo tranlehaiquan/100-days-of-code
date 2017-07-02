@@ -120,5 +120,19 @@ https://codepen.io/tranlehaiquan/pen/pwpedZ
 **Today's Progress**: Completed chapter 7, a little dig deep about JSX. Make simple menu with SASS + BEM (My desgin suck)<hr>
 **Thoughts:** I will wtire tomorow, so late...
 https://codepen.io/tranlehaiquan/pen/dRdXww
+<hr>
+
+### Day 14: July 1, 2017
+
+**Today's Progress**: Completed chapter 8, make simple digital clock<hr>
+**Thoughts:** I just forgot update new feed... <br>
+https://codepen.io/tranlehaiquan/full/RgQBEd
+<hr>
+
+### Day 15: July 2, 2017
+
+**Today's Progress**: Completed chapter 9, learn about handle event<hr>
+**Thoughts:** The book tell me the old wahy to handle with event. So I must keep read book and compare which part of react js. When I finish this chapter I gonna update color card (can add card)<br>
+
 
 
