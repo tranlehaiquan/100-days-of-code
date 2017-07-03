@@ -133,6 +133,12 @@ https://codepen.io/tranlehaiquan/full/RgQBEd
 
 **Today's Progress**: Completed chapter 9, learn about handle event<hr>
 **Thoughts:** The book tell me the old wahy to handle with event. So I must keep read book and compare which part of react js. When I finish this chapter I gonna update color card (can add card)<br>
+<hr>
 
+### Day 16: July 3, 2017
+
+**Today's Progress**: Completed chapter 10 learn how to deal with event in React, chapter 11 learn about life Cycle methob, code add feature to ColorCard<hr>
+**Thoughts:** Still didn't code  completed website build in React-js, but in chapter 12 we will do it. Let see. I think I will back with You don't konw js in feel day<br>
+https://codepen.io/tranlehaiquan/pen/pwpedZ
 
 
