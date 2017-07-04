@@ -138,7 +138,7 @@ https://codepen.io/tranlehaiquan/full/RgQBEd
 ### Day 16: July 3, 2017
 
 **Today's Progress**: Completed chapter 10 learn how to deal with event in React, chapter 11 learn about life Cycle methob, code add feature to ColorCard<hr>
-**Thoughts:** Still didn't code  completed website build in React-js, but in chapter 12 we will do it. Let see. I think I will back with You don't konw js in feel day<br>
+**Thoughts:** Still didn't code  completed page build in React-js, but in chapter 12 we will do it. Let see. I think I will back with You don't konw js in few day<br>
 https://codepen.io/tranlehaiquan/pen/pwpedZ
 
 
