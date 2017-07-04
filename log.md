@@ -140,5 +140,11 @@ https://codepen.io/tranlehaiquan/full/RgQBEd
 **Today's Progress**: Completed chapter 10 learn how to deal with event in React, chapter 11 learn about life Cycle methob, code add feature to ColorCard<hr>
 **Thoughts:** Still didn't code  completed page build in React-js, but in chapter 12 we will do it. Let see. I think I will back with You don't konw js in few day<br>
 https://codepen.io/tranlehaiquan/pen/pwpedZ
+<hr>
 
 
+### Day 17: July 4, 2017
+
+**Today's Progress**: Completed chapter 11, 12. In chapter 12 let me know about ref, way we get DOM. After know ref, I edit my add color card use ref, no need document.getElementId(or something else) :)<hr>
+**Thoughts:** Sometime I feel very boring, and just want go to sleep. At that time, I can't do anything, ever read and understand blog or some post. Tomorrow, we will face will way create SPA<br>
+https://codepen.io/tranlehaiquan/pen/pwpedZ
