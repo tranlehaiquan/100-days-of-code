@@ -148,3 +148,11 @@ https://codepen.io/tranlehaiquan/pen/pwpedZ
 **Today's Progress**: Completed chapter 11, 12. In chapter 12 let me know about ref, way we get DOM. After know ref, I edit my add color card use ref, no need document.getElementId(or something else) :)<hr>
 **Thoughts:** Sometime I feel very boring, and just want go to sleep. At that time, I can't do anything, ever read and understand blog or some post. Tomorrow, we will face will way create SPA<br>
 https://codepen.io/tranlehaiquan/pen/pwpedZ
+<hr>
+
+
+### Day 18: July 5, 2017
+
+**Today's Progress**: Little learn about reactjs, meet react router (chapter 12). Followed guide make cycle loading page<hr>
+**Thoughts:** ...<br>
+https://codepen.io/tranlehaiquan/pen/PjaEro
