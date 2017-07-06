@@ -156,3 +156,12 @@ https://codepen.io/tranlehaiquan/pen/pwpedZ
 **Today's Progress**: Little learn about reactjs, meet react router (chapter 12). Followed guide make cycle loading page<hr>
 **Thoughts:** ...<br>
 https://codepen.io/tranlehaiquan/pen/PjaEro
+
+<hr>
+
+
+### Day 19: July 6, 2017
+
+**Today's Progress**: Completed chapter 13, 14, 15.<hr>
+**Thoughts:**  Chapter 13 is guide for use react router, it pertty old, but still help. Chapter 14 build simple to do list, similer with color card.<br>
+https://codepen.io/tranlehaiquan/pen/rwrjba
