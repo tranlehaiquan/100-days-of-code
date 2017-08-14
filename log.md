@@ -7,3 +7,4 @@
 **Link to work:** https://www.youtube.com/watch?v=e5CXg1sjTqQ&list=WL&index=17&t=3441s
 addEventListener with 3th parameret meant? https://codepen.io/tranlehaiquan/pen/JyyQbK
 stopPropagation(capturing and bubbling)
+codepen: https://codepen.io/tranlehaiquan/pen/NvaYxz
