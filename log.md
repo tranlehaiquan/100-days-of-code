@@ -14,3 +14,9 @@ codepen: https://codepen.io/tranlehaiquan/pen/NvaYxz
 **Today's Progress:** I'm coding my own slideshow :)</br>
 **Thoughts:** It's very exciting, to build my own slide without guide or tutorial </br>
 **Link to work:** https://codepen.io/tranlehaiquan/pen/yoKBja
+
+### Day 03: August 21, 2017
+
+**Today's Progress:** Fix bug effect slider</br>
+**Thoughts:** I think i can fix it faster. But to I got distracted by many thing and it take me more than 2 hourse for fix</br>
+**Link to work:** https://codepen.io/tranlehaiquan/pen/yoKBja
