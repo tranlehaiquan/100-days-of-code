@@ -26,3 +26,9 @@ codepen: https://codepen.io/tranlehaiquan/pen/NvaYxz
 **Today's Progress:** I'm trying to add draw feature to slider</br>
 **Thoughts:** In first version, I'm use position absolute and relative to make fade to slideshow. But I want move in to draw feature so it equal to no more position absolute!</br>
 **Link to work:** https://codepen.io/tranlehaiquan/pen/yoKBja
+
+### Day 05: August 25, 2017
+
+**Today's Progress:** Remove all absolute in css, and process adding drag feature</br>
+**Thoughts:** It is 3 event I must handle is onPress, onMove, onEnd. When onPress trigger it assign and value show start point, and onMove will show user drag right or left, finally onEnd will determind go left or right!</br>
+**Link to work:** https://github.com/tranlehaiquan/PriSlider
