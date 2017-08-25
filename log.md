@@ -20,3 +20,9 @@ codepen: https://codepen.io/tranlehaiquan/pen/NvaYxz
 **Today's Progress:** Fix bug effect slider</br>
 **Thoughts:** I think i can fix it faster. But to I got distracted by many thing and it take me more than 2 hourse for fix</br>
 **Link to work:** https://codepen.io/tranlehaiquan/pen/yoKBja
+
+### Day 04: August 24, 2017
+
+**Today's Progress:** I'm trying to add draw feature to slider</br>
+**Thoughts:** In first version, I'm use position absolute and relative to make fade to slideshow. But I want move in to draw feature so it equal to no more position absolute!</br>
+**Link to work:** https://codepen.io/tranlehaiquan/pen/yoKBja
