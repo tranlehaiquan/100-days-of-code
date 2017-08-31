@@ -32,3 +32,9 @@ codepen: https://codepen.io/tranlehaiquan/pen/NvaYxz
 **Today's Progress:** Remove all absolute in css, and process adding drag feature</br>
 **Thoughts:** It is 3 event I must handle is onPress, onMove, onEnd. When onPress trigger it assign and value show start point, and onMove will show user drag right or left, finally onEnd will determind go left or right!</br>
 **Link to work:** https://github.com/tranlehaiquan/PriSlider
+
+### Day 06: August 31, 2017
+
+**Today's Progress:** Add drag feature for nav button, but still have bug</br>
+**Thoughts:** I will do this des later, I promise</br>
+**Link to work:** https://github.com/tranlehaiquan/PriSlider
