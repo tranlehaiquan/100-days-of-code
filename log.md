@@ -38,3 +38,9 @@ codepen: https://codepen.io/tranlehaiquan/pen/NvaYxz
 **Today's Progress:** Add drag feature for nav button, but still have bug</br>
 **Thoughts:** I will do this des later, I promise</br>
 **Link to work:** https://github.com/tranlehaiquan/PriSlider
+
+### Day 07: September 2, 2017
+
+**Today's Progress:** Completed feature drag slider and autoplay</br>
+**Thoughts:** Still slow when do thing like make function loop throght array number if it hit last index go back, Maybe some match will help me? But it really cool when done simple feature of slideshow :cheer:</br>
+**Link to work:** https://github.com/tranlehaiquan/PriSlider
